@@ -1,0 +1,109 @@
+{
+  "basics": {
+    "name": "Marco Kaul",
+    "label": "Frontend Developer",
+    "picture": "",
+    "email": "marcokaul@gmail.com",
+    "website": "https://mar.co.de",
+    "summary": "Hi! I'm an aspiring frontend developer experimenting with all kinds of technologies. My main focus lies on building foundations for maintainable and testable projects, incorporating the latest and greatest features that Javascript and the frontend ecosystem have to offer, always with a keen eye on performance and ease of use. Also, I'm a design advocat and try to preach the importance of good user experience and design integrity whenever possible to build the best product possible.",
+    "location": {
+      "city": "Berlin"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "@mediaquery",
+        "url": "https://twitter.com/mediaquery"
+      },
+      {
+        "network": "github",
+        "username": "maggo",
+        "url": "https://github.com/maggo"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "https://www.linkedin.com/in/marcokaul",
+        "url": "https://www.linkedin.com/in/marcokaul"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Helpling GmbH",
+      "position": "Frontend Developer",
+      "website": "https://www.helpling.de",
+      "startDate": "2016-11-01",
+      "endDate": "2018-09-30",
+      "summary": "Helpling is a cleaning services marketplace active in 10 countries around the globe",
+      "highlights": [
+        "Developed a platform agnostic react native app for the Middle East branch that compiles to web and native",
+        "Refreshed different parts of the platform running in Dubai and Saudi Arabia, like checkout funnel and landingpages",
+        "Implemented a company wide design system using Foundation as the base that's being used on all Helpling websites"
+      ]
+    },
+    {
+      "company": "UEBERBIT GmbH",
+      "position": "Web- & Application-Developer",
+      "website": "https://www.ueberbit.de",
+      "startDate": "2013-05-15",
+      "endDate": "2016-10-31",
+      "highlights": [
+        "Developed business websites and intranets with Drupal and a B2B application suit for a major german marketing agency using angular."
+      ]
+    },
+    {
+      "company": "Dots United GmbH",
+      "position": "Webdeveloper",
+      "website": "https://dotsunited.de",
+      "startDate": "2011-11-01",
+      "endDate": "2013-05-14",
+      "highlights": [
+        "Built and maintained websites with symfony and wordpress, rebuilt a flash application in pure javascript"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "SRH Fachschule Heidelberg",
+      "area": "Game- and Multimedia-development",
+      "startDate": "2011-10-31",
+      "endDate": "2009-10-31"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "keywords": [
+        "HTML",
+        "CSS/Sass",
+        "Javascript"
+      ]
+    },
+    {
+      "name": "Javascript",
+      "keywords": [
+        "ESnext",
+        "React",
+        "Webpack"
+      ]
+    },
+    {
+      "name": "PHP",
+      "keywords": [
+        "phalcon",
+        "symfony",
+        "Drupal"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "German",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Conversational"
+    }
+  ]
+}
