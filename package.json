@@ -6,5 +6,8 @@
   "dependencies": {
     "jsonresume-theme-flat-optimized": "0.0.2",
     "resume-cli": "0.4.19"
+  },
+  "scripts": {
+    "build": "resume export index.html --theme=flat-optimized"
   }
 }
