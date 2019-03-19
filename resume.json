@@ -1,11 +1,11 @@
 {
   "basics": {
     "name": "Marco Kaul",
-    "label": "Frontend Developer",
+    "label": "Fullstack Developer",
     "picture": "",
     "email": "marcokaul@gmail.com",
     "website": "https://mar.co.de",
-    "summary": "Hi! I'm an aspiring frontend developer experimenting with all kinds of technologies. My main focus lies on building foundations for maintainable and testable projects, incorporating the latest and greatest features that Javascript and the frontend ecosystem have to offer, always with a keen eye on performance and ease of use. Also, I'm a design advocat and try to preach the importance of good user experience and design integrity whenever possible to build the best product possible.",
+    "summary": "Hi! I'm an aspiring fullstack developer experimenting with all kinds of technologies. My main focus lies on building foundations for maintainable and future-proof projects, incorporating the latest and greatest features that Javascript and the frontend ecosystem have to offer, always with a keen eye on performance and ease of use. Every great frontend needs a fast and reliable platform, so I've started dabbing into backend development and DevOps, building systems with serverless functions, Kubernetes, GraphQL and Prisma to scale easily and provide excellent developer experience. Also, I'm a design advocat and try to preach the importance of good user experience and design integrity whenever possible to build the best products.",
     "location": {
       "city": "Berlin"
     },
@@ -28,6 +28,18 @@
     ]
   },
   "work": [
+    {
+      "company": "Netherstorm",
+      "position": "Fullstack Developer",
+      "website": "https://netherstorm.io",
+      "startDate": "2018-10-01",
+      "summary": "Netherstorm is the place for video game reviews",
+      "highlights": [
+        "Participated in the 2018 ConsenSys Tachyon Accelerator",
+        "Developed business idea and MVP for a marketplace system with Ethereum integration",
+        "Designed & implemented new product direction based on customer and partner feedback"
+      ]
+    },
     {
       "company": "Helpling GmbH",
       "position": "Frontend Developer",
@@ -73,27 +85,19 @@
   "skills": [
     {
       "name": "Web Development",
-      "keywords": [
-        "HTML",
-        "CSS/Sass",
-        "Javascript"
-      ]
+      "keywords": ["Semantic HTML", "PWAs", "CSS Design Systems"]
     },
     {
       "name": "Javascript",
-      "keywords": [
-        "ESnext",
-        "React",
-        "Webpack"
-      ]
+      "keywords": ["ESnext", "React", "Serverside Rendering"]
+    },
+    {
+      "name": "DevOps",
+      "keywords": ["GCS", "Kubernetes", "Postgres", "Prisma"]
     },
     {
       "name": "PHP",
-      "keywords": [
-        "phalcon",
-        "symfony",
-        "Drupal"
-      ]
+      "keywords": ["phalcon", "symfony", "Drupal"]
     }
   ],
   "languages": [
