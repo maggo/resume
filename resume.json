@@ -93,7 +93,7 @@
     },
     {
       "name": "DevOps",
-      "keywords": ["GCS", "Kubernetes", "Postgres", "Prisma"]
+      "keywords": ["GCP", "Kubernetes", "Postgres", "Prisma"]
     },
     {
       "name": "PHP",
