@@ -29,10 +29,18 @@
   },
   "work": [
     {
+      "company": "Freelance",
+      "position": "Fullstack Developer",
+      "website": "https://mar.co.de",
+      "startDate": "2019-05-01",
+      "summary": "Developing Websites and Apps"
+    },
+    {
       "company": "Netherstorm",
       "position": "Fullstack Developer",
       "website": "https://netherstorm.io",
       "startDate": "2018-10-01",
+      "endDate": "2019-04-30",
       "summary": "Netherstorm is the place for video game reviews",
       "highlights": [
         "Participated in the 2018 ConsenSys Tachyon Accelerator",

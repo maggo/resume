@@ -5,9 +5,12 @@
   "license": "MIT",
   "dependencies": {
     "jsonresume-theme-flat-optimized": "0.0.2",
-    "resume-cli": "0.4.19"
+    "resume-cli": "1.2.7"
   },
   "scripts": {
     "build": "resume export index.html --theme=flat-optimized"
+  },
+  "engines": {
+    "node": "^8"
   }
 }
